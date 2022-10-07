@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://civic:civic@cluster0.qzhozw2.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "itsasecret"
+}
